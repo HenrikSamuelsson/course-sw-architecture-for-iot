@@ -5,3 +5,9 @@ Notes on the course Software Architecture for the Internet of Things, given by E
 ## Abbreviations
 
 ADD - Attribute Driven Design  
+
+## Requirements
+
+Functional requirements
+
+-
