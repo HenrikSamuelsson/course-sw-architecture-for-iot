@@ -8,6 +8,8 @@ ADD - Attribute Driven Design
 
 ## Requirements
 
-Functional requirements
+Requirements comes is two types functional and non-functional. 
 
--
+## Functional Requirements
+
+## Non-functional Requirements
