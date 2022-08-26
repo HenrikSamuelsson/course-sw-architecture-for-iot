@@ -8,8 +8,16 @@ ADD - Attribute Driven Design
 
 ## Requirements
 
-Requirements comes is two types functional and non-functional. 
+Requirements comes is two types functional and non-functional.
 
 ## Functional Requirements
 
 ## Non-functional Requirements
+
+Three different types of non-functional requirements:
+
+1. Quality attributes
+
+2. Business requirements
+
+3. Constraints
