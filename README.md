@@ -8,7 +8,7 @@ ADD - Attribute Driven Design
 
 ## Software Architecture Drivers
 
-Many companies are going through a digital transformation and this means more software to be constructed which in turn means that there is a need for a greater number of software architects.
+Many companies are going through a digital transformation, this means more software to be constructed, which in turn means that there is a need for more software architects.
 
 ## Requirements
 
