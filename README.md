@@ -6,6 +6,10 @@ Notes on the course Software Architecture for the Internet of Things, given by E
 
 ADD - Attribute Driven Design  
 
+## Software Architecture Drivers
+
+Many companies are going through a digital transformation and this means more software to be constructed which in turn means that there is a need for a greater number of software architects.
+
 ## Requirements
 
 Requirements comes is two types functional and non-functional.
