@@ -10,6 +10,14 @@ ADD - Attribute Driven Design
 
 Many companies are going through a digital transformation, this means more software to be constructed, which in turn means that there is a need for more software architects.
 
+## Role Of the Architect
+
+It is the role of the software architect to translate business goals and user requirements into a quality software architectures.
+
+## Attribute Driven Design
+
+ADD, the attribute driven design methodology based on quality attribute is a valuable methodology en the software architects tool box.
+
 ## Requirements
 
 Requirements comes is two types functional and non-functional.
